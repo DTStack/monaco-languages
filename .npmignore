@@ -13,3 +13,5 @@
 /.travis.yml
 /.editorconfig
 /azure-pipelines.yml
+public
+docs
